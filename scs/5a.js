@@ -7,7 +7,7 @@ adams({ nomCom: "gpt4", reaction: "😇", categorie: "Gpt4" }, async (dest, zk, 
   
     try {
       if (!arg || arg.length === 0) {
-        return repondre(Please ask a question dear.);
+        return repondre(Please ask a question.);
       }
   
       // Regrouper les arguments en une seule chaîne séparée par "-"
