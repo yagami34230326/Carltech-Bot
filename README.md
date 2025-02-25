@@ -1,5 +1,5 @@
 
-<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
+<a href="https://i.imgur.com/5zda1uw.jpeg"><img src="https://files.catbox.moe/9y2ouw.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">CYBERION-SPARK-X</h1>
   </a>
 
@@ -88,6 +88,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
+<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/uqhujo.jpg" alt="02" border="0" /></a>                     
     <h1 align="center">CREDITS TO IBRAHIM ADAMS FOR THE BASE</h1>
   </a>
