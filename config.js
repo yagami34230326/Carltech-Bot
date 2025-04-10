@@ -18,11 +18,11 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || '',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "Ibrahim Adams",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || " Ibrahim Adams",              
+    OWNER_NAME: process.env.OWNER_NAME || "Carl William",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || " Carl William",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
-    BOT : process.env.BOT_NAME || 'BMW_MD',
+    BOT : process.env.BOT_NAME || 'SPARK-X-2025',
     URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/h2ydge.jpg',
     MODE: process.env.PUBLIC_MODE || "yes",
     PM_PERMIT: process.env.PM_PERMIT || 'yes',
@@ -45,7 +45,7 @@ module.exports = { session: process.env.SESSION_ID || '',
                   AUTO_REJECT_CALL : process.env.AUTO_REJECT_CALL || 'yes',
                   AUTO_BIO : process.env.AUTO_BIO || 'yes',
                   AUDIO_REPLY : process.env.AUDIO_REPLY || 'yes',
-                  AUTO_SAVE_CONTACTS_NAME: "🚀 ʙᴡᴍ xᴍᴅ", // Default name prefix for new contacts
+                  AUTO_SAVE_CONTACTS_NAME: "SPARK-X", // Default name prefix for new contacts
                   AUTO_REPLY_MESSAGE: "", 
     DATABASE_URL,
     DATABASE: DATABASE_URL === databasePath
