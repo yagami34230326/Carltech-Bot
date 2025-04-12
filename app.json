@@ -95,11 +95,11 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is a must)",
-     "required" :false
+     "required" :true
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is a must)",
-     "required" :false
+     "required" :true
     }  
 	  ,
     "SESSION_ID":
@@ -120,7 +120,7 @@
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')....Must put the number connected to the session ID",
-    "required":false,
+    "required":true,
     "value": ""
   },
     "WARN_COUNT":
