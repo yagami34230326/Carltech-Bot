@@ -1,4 +1,0 @@
-# CARLTECH AND IBRAAH
-
-
-
