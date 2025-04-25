@@ -72,14 +72,14 @@
     },
     "CHATBOT":
     {
-      "description":"the chatbot will automatically reply messages.",
-      "value":"yes",
+      "description":"the chatbot will automatically reply messages with texts.",
+      "value":"no",
       "required":false
     },
     "CHATBOT1":
     {
-      "description":"the chatbot will automatically reply messages.",
-      "value":"yes",
+      "description":"the chatbot will automatically reply messages with audio.",
+      "value":"no",
       "required":false
     }
     ,
